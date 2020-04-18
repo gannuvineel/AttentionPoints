@@ -6,21 +6,21 @@ Folders and Files:
 1. Project code and necessary files
 
 	a. Data
-
+	
 		i.   dataset.xlsx
 		ii.  test_data.csv
 		iii. train_data.csv
 
 	b. Project Code
-
-		I. 	 Doxygen Files
+	
+		I.  Doxygen Files
 
 				i.   Attention Points Doxygen Documentation.pdf
 				ii.  AttentionPointsPlotter Script Documentation.pdf
 				iii. CameraController Script Documentation.pdf
 				iv.  ChangeObjectPosition Script Documentation.pdf
 
-		II.  Jupter Documentation
+		II. Jupter Documentation
 
 				i. Attention Points Jupyter Documentation.pdf
 
@@ -47,6 +47,7 @@ Folders and Files:
 		ii. Versions.ipynb
 
 	d. User Guide
+	
 		i. User guide for Executives, Engineers and Analysts.pdf
 
 
