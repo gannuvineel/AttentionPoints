@@ -54,8 +54,11 @@ Folders and Files:
 2. Project delivery
 
 	a. Attention Points Report.pdf
+	
 	b. Attention Points Youtube Video Link.pdf
+	
 	c. Identification of 3D Attention Points Presentation for Analysts.pdf
+	
 	d. Identification of 3D Attention Points Presentation for Executives.pdf
 
 
